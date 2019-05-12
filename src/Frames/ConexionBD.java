@@ -17,7 +17,7 @@ public class ConexionBD {
         }return cn;
     }
     Statement createStatement(){
-        throw new UnsupportedOperationException("No soportado1");
+        throw new UnsupportedOperationException("No soportado");
     }
     
 }
